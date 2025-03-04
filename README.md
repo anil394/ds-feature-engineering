@@ -1,7 +1,7 @@
 # Feature Engineering
 
 In supervised machine learning and statistical modeling, Feature Engineering is a preprocessing step which transforms raw data into
-features that more precisely represent the underlying problem for a predictive model. This is often achieved by means of applying domain knowledge to data.
+features that more precisely represent the underlying problem for a predictive model. This is often achieved by means of applying domain knowledge to data. Before jumping to the notebooks, please read the machine [learning workflow file](machine_learning_workflow.md)
 
 ## Contents
 
