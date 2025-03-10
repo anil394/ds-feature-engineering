@@ -5,26 +5,26 @@ features that more precisely represent the underlying problem for a predictive m
 
 ## Contents
 
-### 1. Notebook [***1_intro_to_fe***](1_intro_to_fe.ipynb) 
+### 1. Notebook [***1.1_intro_to_fe***](1.1_intro_to_fe.ipynb) 
 It covers the basics of feature engineering, with hands-on example from a given dataset, explaining various techniques like
 + `Imputation`
 + `Categorical Encoding`
 + `Feature Scaling`
 + `Feature Expansion` 
-### 2. Notebook [***2_advanced_fe***](2_advanced_fe.ipynb) 
+### 2. Notebook [***2.1_advanced_fe***](2.1_advanced_fe.ipynb) 
 It is dedicated to various advanced technologies used in a Machine Learning workflow, namely 
 + `ColumnTransformer`
 + `Pipeline`
 
 
-### 3. Notebook [***1_intro_to_fe_exercise***](1_intro_to_fe_exercise.ipynb) 
+### 3. Notebook [***1.2_intro_to_fe_exercise***](1.2_intro_to_fe_exercise.ipynb) 
 In this exercise you transform raw data in a way that is suitable to be used for modeling
 + `Imputation`
 + `Categorical Encoding`
 + `Feature Scaling`
 + `Discretization`
 
-### 4. Notebook [***2_advanced_fe***](2_advanced_fe.ipynb)
+### 4. Notebook [***2.2_advanced_fe***](2.2_advanced_fe_exercise.ipynb)
 This exercise is built on top the other and you will transform raw data using also
 + `ColumnTransformer`
 + `Pipeline`
