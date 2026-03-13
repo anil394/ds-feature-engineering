@@ -18,14 +18,14 @@ It is dedicated to various advanced technologies used in a Machine Learning work
 
 
 ### 3. Notebook [***1.2_intro_to_fe_exercise***](1.2_intro_to_fe_exercise.ipynb) 
-In this exercise you transform raw data in a way that is suitable to be used for modeling
+In this exercise, you transform raw data into a form that is suitable for modeling.
 + `Imputation`
 + `Categorical Encoding`
 + `Feature Scaling`
 + `Discretization`
 
 ### 4. Notebook [***2.2_advanced_fe***](2.2_advanced_fe_exercise.ipynb)
-This exercise is built on top the other and you will transform raw data using also
+This exercise builds on the previous one, and you will also transform raw data using
 + `ColumnTransformer`
 + `Pipeline`
 
@@ -44,7 +44,7 @@ The added [requirements file](requirements.txt) contains all libraries and depen
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
-### **`WindowsOS`** type the following commands :
+### **`Windows`** type the following commands:
 
 - Install the virtual environment and the required packages by following commands.
 
@@ -69,4 +69,3 @@ The added [requirements file](requirements.txt) contains all libraries and depen
 
 
 *Note: If there are errors during environment setup, try removing the versions from the failing packages in the requirements file.*
-
