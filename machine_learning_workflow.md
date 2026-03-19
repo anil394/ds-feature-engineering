@@ -15,7 +15,7 @@ The goal of machine learning is to build a machine learning model that uses data
 
 ### Step 1 - Define Business Goal or Research Question
 
-The first step in any data science project is to **define a clear, specific, and measurable goal** that aligns with the overall business or research objectives. Before proceeding,you should assess whether machine learning is the most suitable approach, as simpler alternatives may be more effective in some cases. Additionally, you should ensure that you have sufficient, "high-quality" data to train a reliable model, as data availability and quality significantly impact its performance. You also should establish clear success criteria to determine when the model is adequately refined.
+The first step in any data science project is to **define a clear, specific, and measurable goal** that aligns with the overall business or research objectives. Before proceeding, you should assess whether machine learning is the most suitable approach, as simpler alternatives may be more effective in some cases. Additionally, you should ensure that you have sufficient, "high-quality" data to train a reliable model, as data availability and quality significantly impact its performance. You also should establish clear success criteria to determine when the model is adequately refined.
 
 For example, a well-defined goal could be:
 
@@ -69,7 +69,7 @@ Before the model is trained, **hyperparameters** (which control the learning pro
 
 #### Baseline Model
 
-**Before starting** the iterative process,however it's crucial to **establish** a **clear starting point**. One strategy is to research methods that others have successfully implemented, adapt them, and try to improve upon these methods to outperform existing solutions. Another approach is to develop a **simple baseline model** that serves as a benchmark for more complex models to outperform. Typically, a baseline model is **straightforward to implement**. It often relies on domain knowledge or basic assumptions that can quickly be turned into predictive rules. For instance, in the case of the bike rental example, a simple heuristic model could be:
+**Before starting** the iterative process, however, it's crucial to **establish** a **clear starting point**. One strategy is to research methods that others have successfully implemented, adapt them, and try to improve upon these methods to outperform existing solutions. Another approach is to develop a **simple baseline model** that serves as a benchmark for more complex models to outperform. Typically, a baseline model is **straightforward to implement**. It often relies on domain knowledge or basic assumptions that can quickly be turned into predictive rules. For instance, in the case of the bike rental example, a simple heuristic model could be:
 > If the time is during rush hours, predict the number of bikes needed based on the average demand observed during past rush hours. If the time is outside of rush hours, predict the number of bikes needed based on the average demand observed during past non-rush hours.
 
 ### Step 9 - Calculate Test Score
