@@ -1,9 +1,9 @@
 
 # The Machine Learning Workflow
 
-![workflow_unsplash.jpg](images/workflow_unsplash.jpg)
+![workflow_unsplash.jpg](./assets/workflow_unsplash.jpg)
 
-*Photo by Campaign Creators on Unsplash*
+_Photo by Campaign Creators on Unsplash_
 
 ## Goal of Machine Learning
 
@@ -11,7 +11,7 @@ The goal of machine learning is to build a machine learning model that uses data
 
 ## The Workflow
 
-![ml_workflow.png](images/ml_workflow.png)
+![ml_workflow.png](./assets/ml_workflow.png)
 
 ### Step 1 - Define Business Goal or Research Question
 
@@ -65,7 +65,7 @@ As shown in the figure above, the steps of **Feature Engineering**, **Hyperparam
 
 The **Feature Engineering** step involves creating or transforming features based on domain knowledge and initial data analysis. As new insights are gained from the model performance and the validation feedback, you may go back and adjust or create new features.
 
-Before the model is trained, **hyperparameters** (which control the learning process and the structure of the model) need to be set. These may need adjustment if the model does not perform as expected on the **validation data**. With the **features** set and **hyperparameters** configured, **the model** is **trained** on the **training data**. This step **fits** the **model parameters** (weights, biases, etc.) to the data. After the **model** is trained, it is **assessed** using the **validation set**. 
+Before the model is trained, **hyperparameters** (which control the learning process and the structure of the model) need to be set. These may need adjustment if the model does not perform as expected on the **validation data**. With the **features** set and **hyperparameters** configured, **the model** is **trained** on the **training data**. This step **fits** the **model parameters** (weights, biases, etc.) to the data. After the **model** is trained, it is **assessed** using the **validation set**.
 
 #### Baseline Model
 
