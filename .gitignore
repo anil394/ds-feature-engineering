@@ -170,7 +170,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-.python-version
 
 # Mac files
 .DS_Store
+# uv
+.uv/
